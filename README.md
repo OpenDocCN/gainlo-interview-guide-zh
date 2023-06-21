@@ -5,9 +5,9 @@
 译者：[飞龙](https://github.com/)
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/gainlo-interview-guide/details)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/gainlo-interview-guide)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/gainlo-interview-guide)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/gainlo-interview-guide)
++ [PDF 格式](https://www.gitbook.com/download/pdf/book/wizardforcel/gainlo-interview-guide)
++ [EPUB 格式](https://www.gitbook.com/download/epub/book/wizardforcel/gainlo-interview-guide)
++ [MOBI 格式](https://www.gitbook.com/download/mobi/book/wizardforcel/gainlo-interview-guide)
 + [Github](https://github.com/wizardforcel/gainlo-interview-guide-zh)
 
 ## 赞助我
